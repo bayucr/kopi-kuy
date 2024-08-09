@@ -1,0 +1,48 @@
+{
+    "Kopi": [
+        {
+            "foto": "https://images.pexels.com/photos/4293245/pexels-photo-4293245.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "nama": "Americano",
+            "size": "200 mL",
+            "harga": "40.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "https://images.pexels.com/photos/5253025/pexels-photo-5253025.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "nama": "Sweet Ice",
+            "size": "200 mL",
+            "harga": "45.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "https://images.pexels.com/photos/428310/pexels-photo-428310.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "nama": "Latte",
+            "size": "200 mL",
+            "harga": "50.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "Teh": [
+        {
+            "foto": "https://images.pexels.com/photos/792613/pexels-photo-792613.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "nama": "Lemon Tea",
+            "size": "200 mL",
+            "harga": "40.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://images.pexels.com/photos/9309995/pexels-photo-9309995.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "nama": "Matcha Tea",
+            "size": "150 mL",
+            "harga": "35.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://images.pexels.com/photos/8215136/pexels-photo-8215136.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "nama": "Honey Tea",
+            "size": "150 mL",
+            "harga": "35.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ]
+}
